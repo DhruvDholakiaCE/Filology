@@ -43,7 +43,7 @@ or
 
 Link to demo
 
-https://drive.google.com/file/d/1iNf74NqU1ZWMKS7bjM_w0mOMbkT4JV9b/view?usp=sharing
+https://www.linkedin.com/posts/dhruvdholakia99_simple-file-based-project-made-with-tkinter-activity-6730786229681487872-qW_K?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 
 ## Screenshots
